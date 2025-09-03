@@ -24,4 +24,4 @@ No other Python packages are required.
 ## Usage
 
 ```bash
-python junit2html-simple.py -o report.html TEST-*.xml
+python junit2html_simple.py -o report.html TEST-*.xml
