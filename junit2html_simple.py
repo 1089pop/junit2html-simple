@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 '''
-junit2html-simple.py
+junit2html_simple.py
 ----------------
 Convert one or more JUnit XML files into a single, pretty HTML report.
 
@@ -8,7 +8,7 @@ Requires:
     pip install junitparser
 
 Usage:
-    python junit2html-simple.py -o report.html TEST-*.xml
+    python junit2html_simple.py -o report.html TEST-*.xml
 '''
 import argparse
 import datetime as dt
