@@ -1,5 +1,5 @@
 # junit2html-simple
-[![Pylint](https://github.com/1089pop/junit2html-simple/actions/workflows/pylint.yml/badge.svg)](https://github.com/1089pop/junit2html-simple/actions/workflows/pylint.yml)
+[![Pylint](https://github.com/1089pop/junit2html-simple/actions/workflows/pylint.yml/badge.svg)](https://github.com/1089pop/junit2html-simple/actions/workflows/pylint.yml)  
 A lightweight, offline-friendly JUnit XML to HTML report generator.
 
 ## Overview
